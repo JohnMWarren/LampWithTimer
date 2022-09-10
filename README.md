@@ -122,8 +122,7 @@ void loop() {
 </details>
 
 Відео з результатом можна переглянути тут:
-[![mainimg](https://github.com/JohnMWarren/LampWithTimer/blob/main/doc/video.JPG)]
-(https://youtu.be/NNdjo4cXRUg)
+[![mainimg](https://github.com/JohnMWarren/LampWithTimer/blob/main/doc/video.JPG)](https://youtu.be/NNdjo4cXRUg)
 
 <a id="versions"></a>
 ## Версії
