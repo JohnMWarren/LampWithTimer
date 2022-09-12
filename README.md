@@ -1,6 +1,7 @@
+![mainimg](https://github.com/JohnMWarren/LampWithTimer/blob/main/doc/LampTimer-1.jpg)
 # LampWithTimer
 Таймер для стандартного настільного світильника з таймером відключення. Таймер вбудований для фоторезистивного проявлення друкованих плат з UV лампою.
-![mainimg](https://github.com/JohnMWarren/LampWithTimer/blob/main/doc/LampTimer-1.jpg)
+
 - 4 символьний 8 розрядний Led індикатор на чіпі TM1637
 - просте керування таймером, з таймінгом від 10 секунд до 1 години
 - побудований на стандартних модулях, з контроллером ATMEGA328 (arduino Nano)
