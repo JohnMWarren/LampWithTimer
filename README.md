@@ -29,9 +29,13 @@
     - Arduino IDE v2
 
 - [Завантажити бібліотеку енкодера](https://github.com/JohnMWarren/LampWithTimer/blob/main/src/EncButton-main.zip)
+- Або [AlexGyver на GITHUB](https://github.com/AlexGyver/GyverLibs/tree/master/GyverEncoder)
 - [Завантажити бібліотеку Індикатора TM1637](https://github.com/JohnMWarren/LampWithTimer/blob/main/src/TM1637-clock.zip) 
+- 
  
  .zip архивом для ручного інсталювання: 
+
+
 
   - Розпакувати та перемістити в *C:\Program Files (x86)\Arduino\libraries* (Windows x64)
   - Розпакувати та перемістити в *C:\Program Files\Arduino\libraries* (Windows x32)
